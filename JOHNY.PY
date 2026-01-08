@@ -1,3 +1,3 @@
-print("Library Management system")
-print("version 1.0 initialized")
-print("nan dhaan da leo,leodaas")
+a=int(input("enter the number:"))
+b=int(input("enter the number:"))
+print("the sum is",a+b)
